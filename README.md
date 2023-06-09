@@ -1,4 +1,4 @@
-<img src='images/apple.jpg'></img>
+<img src='images/city.jpg'></img>
 
 ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=깃허브%20특강&fontSize=90)
 
